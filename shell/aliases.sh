@@ -36,4 +36,3 @@ alias web009='ssh -A duane.jennings@web009.groupz.net'
 alias web010='ssh -A duane.jennings@web010.groupz.net'
 alias web011='ssh -A duane.jennings@web011.groupz.net'
 alias web012='ssh -A duane.jennings@web012.groupz.net'
-set -o vi
